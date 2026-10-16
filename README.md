@@ -2,7 +2,7 @@
 
 # EcoGuard: Climate Data Poisoning Detector
 
-EcoGuard is a real-time stream-processing and validation security layer built for the **IEEE ClimateChain Global Hackathon** (Climate Data & Environmental Monitoring track). It intercepts, validates, and filters incoming IoT sensor telemetry on the fly to protect decentralized environmental networks from data poisoning, spoofing, and tampering at ingestion.
+EcoGuard is a real-time stream-processing and validation security layer that intercepts, validates, and filters incoming IoT sensor telemetry on the fly to protect decentralized environmental networks from data poisoning, spoofing, and tampering at ingestion.
 
 ## 🚀 Live Demo
 * **Live App:** [https://ramon-data.netlify.app](https://ramon-data.netlify.app)
